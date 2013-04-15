@@ -1,4 +1,3 @@
-yelp_test_set/ 
+yelp_test_set/
 yelp_training_set/
-*yelp
-
+yelp*
