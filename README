@@ -1,0 +1,8 @@
+file format
+official_training_review_matrix.txt
+	row_num: review_count col_num: 1 + word_count (1+1720)
+	[usefulness w1_count w2_count ....... ]
+
+official_test_review_matrix.txt
+	row_num: review_count col_num: 1 + word_count (1+1720)
+	[0 w1_count w2_count ....... ]
